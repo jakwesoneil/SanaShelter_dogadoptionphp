@@ -71,10 +71,10 @@
                                 <input type="email" class="form-control border-0 p-4" placeholder="Your Email" required="required" />
                             </div>
 							<div class="form-group">
-                            <input type="email" class="form-control border-0 p-4" placeholder="Your Number" required="required" />
+                            <input type="tel" class="form-control border-0 p-4" placeholder="Your Number" required="required" />
                             </div>
 							<div class="form-group">
-                            <input type="email" class="form-control border-0 p-4" placeholder="Enter Password" required="required" />
+                            <input type="password" class="form-control border-0 p-4" placeholder="Enter Password" required="required" />
                             </div>
                             <div>
                                 <button class="btn btn-dark btn-block border-0 py-3" type="submit">Register</button>
